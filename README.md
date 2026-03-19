@@ -93,17 +93,10 @@ The project was developed through the following steps:
 
 ---
 
-## Full Project
-Full report and files are available here:  
-[GitHub Repository Link]
-
----
 
 ## Author
-Mohamed [Your Last Name]  
-Mechanical Engineering Student  
+Mohamed Ayman Aldreamly  
+Mechatronics Engineering Student  
 
 ---
 
-## Acknowledgment
-This project was developed as part of a mechanical design study focusing on system integration, gearbox design, and structural analysis.
