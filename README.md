@@ -88,12 +88,6 @@ The project was developed through the following steps:
 
 ---
 
-## Project Preview
-(Add your CAD / FEA images here)
-
----
-
-
 ## Author
 Mohamed Ayman Aldreamly  
 Mechatronics Engineering Student  
